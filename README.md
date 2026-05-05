@@ -1,4 +1,4 @@
-# UTS Pemrograman Web 2 - [NIM]
+# UTS Pemrograman Web 2 - 60324056
 
 ### Identitas Mahasiswa
 * **Nama:** Furqon Lanang
